@@ -1,0 +1,8 @@
+C:\AppsDev VS Studio\Bags\bin\Debug\Bags.exe.config
+C:\AppsDev VS Studio\Bags\bin\Debug\Bags.exe
+C:\AppsDev VS Studio\Bags\bin\Debug\Bags.pdb
+C:\AppsDev VS Studio\Bags\obj\Debug\Bags.csproj.AssemblyReference.cache
+C:\AppsDev VS Studio\Bags\obj\Debug\Bags.csproj.SuggestedBindingRedirects.cache
+C:\AppsDev VS Studio\Bags\obj\Debug\Bags.csproj.CoreCompileInputs.cache
+C:\AppsDev VS Studio\Bags\obj\Debug\Bags.exe
+C:\AppsDev VS Studio\Bags\obj\Debug\Bags.pdb
